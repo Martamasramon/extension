@@ -6,7 +6,7 @@ This extension helps you understand which products come in easily recyclable pac
 Click 'Analyse' to see what materials each packaging is made out, whether they are recyclable or not and where your closest recycling locations are.
 
 ### Keep track of your progress
-See how large your tree is! Keep track of how many containers you have recycled and how much money has been donated on your behalf!
+See how large your tree is! Keep track of how many containers you have recycled and how much money has been donated on your behalf.
 
 
 ## Using the extension
